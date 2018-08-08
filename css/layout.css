@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 
 .shadow {
-  display: inline;
+  display: block;
   float: left;
 }
 
@@ -40,7 +40,7 @@
 }
 
 [class*="col-"] {
-  margin-left: 1%;
+  margin-left: 2%;
 }
  
 .first {
