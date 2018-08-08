@@ -66,5 +66,5 @@
 
 div {
     column-count: 3;
-    
+    column-gap: 10px;
 }
