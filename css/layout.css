@@ -22,8 +22,9 @@
   clear: both;
 }
 
-.wrapper {
-  
+.wrapper { 
+  width: 100%;
+  margin: 0 auto;
 }
 
 /* Posititoning Classes */
