@@ -69,8 +69,6 @@
 
 #details {
     column-count: 3;
-    column-gap: 20px;
-    width: 100%;
-    margin: 20px 0;
+    column-gap: 10px;
     column-rule-width: 1px;
 }
