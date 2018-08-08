@@ -24,4 +24,7 @@
 
 /* Posititoning Classes */
 
-
+.shadown {
+  display: block;
+  float: left;
+}
