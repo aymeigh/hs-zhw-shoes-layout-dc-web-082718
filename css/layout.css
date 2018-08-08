@@ -67,6 +67,10 @@
     margin: 20px 0;
 }
 
-div {
+.border_right {
+    column-count: 3;
+    column-gap: 20px;
+    width: 100%;
+    margin: 20px 0;
     column-rule-width: 1px;
 }
