@@ -67,7 +67,7 @@
     margin: 20px 0;
 }
 
-.border_right {
+#details {
     column-count: 3;
     column-gap: 20px;
     width: 100%;
