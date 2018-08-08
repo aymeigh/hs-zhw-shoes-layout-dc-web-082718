@@ -63,3 +63,8 @@
     display: table;
     clear: both;
 }
+
+div {
+    column-count: 3;
+    
+}
