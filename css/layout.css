@@ -22,6 +22,51 @@
   clear: both;
 }
 
+.wrapper { 
+  width: 100%;
+  margin: 0 auto;
+}
+
 /* Posititoning Classes */
 
 
+.col-1 {
+  float: left;
+  width: 66%;
+}
+
+.col-2 {
+  float: left;
+  width: 32%;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+}
+ 
+.first {
+  margin-left: 0%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    column-count: 3;
+    column-gap: 20px;
+    width: 100%;
+    margin: 20px 0;
+}
+
+footer {
+  background: rgb(223,228,226);
+}
